@@ -1,1 +1,3 @@
 Hello Git I'm new here.
+hoppaaa 
+new line was added
